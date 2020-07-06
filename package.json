@@ -1,0 +1,16 @@
+{
+  "name": "Calculator",
+  "version": "0.1.0",
+  "description": "Personal Payment Solution",
+  "main": "app.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "dependencies": {
+    "wechaty": "^0.32.5"
+  },
+  "devDependencies": {
+    "check-node-version": "^3.2.0",
+    "qrcode-terminal": "*"
+  }
+}
